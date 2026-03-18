@@ -1,0 +1,27 @@
+#main-title {
+    color: #FF8552;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    background-color: #363635;
+}
+
+.definition {
+    color: #FF8552;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    display: block;
+    background-color: #363635;
+}
+
+.focus {
+    color: #08A045;
+}
+
+main {
+    background-color: #363635;
+}
